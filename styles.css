@@ -1,3 +1,13 @@
+
 body {
-    background: linear-gradient(90deg,yellow, red, blue);
+    background: linear-gradient(90deg,yellow, red,yellow,red, blue);
+}
+
+.red {
+    background-color: red;
+    height: 60px;
+}
+
+.black {
+    color:white;
 }
