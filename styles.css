@@ -1,6 +1,6 @@
 
 body {
-    background: linear-gradient(90deg,yellow, red,yellow,red, blue);
+    background: linear-gradient(90deg,yellow,orange,yellow,red, blue);
 }
 
 .red {
@@ -10,4 +10,13 @@ body {
 
 .black {
     color:white;
+}
+
+.gray {
+    color: rgb(65, 54, 54);
+}
+
+.icon-link {
+    padding: 5px;
+   
 }
