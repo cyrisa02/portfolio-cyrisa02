@@ -1,6 +1,21 @@
 
 body {
-    background: linear-gradient(90deg,yellow,orange,yellow,red, blue);
+    background:#201c29;
+    color:white;
+    ;
+}
+.table {
+    position: fixed;
+  
+    
+}
+.table.no-border tr td, .table.no-border tr th {
+    border-width: 0;
+}
+
+.icon {
+    
+    color: rgba(244, 175, 96,0.4);
 }
 
 .red {
