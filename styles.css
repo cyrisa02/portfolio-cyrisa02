@@ -7,11 +7,8 @@ body {
     
 }
 
-.navbar, .opac {
-    filter: opacity(70%);
-}
 
-
+     
 .table {
     position: fixed;
   
